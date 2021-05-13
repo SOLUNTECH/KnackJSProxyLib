@@ -37,6 +37,8 @@ body
     line-height: 1.5;
     color: #4d4e53;
     background-color: white;
+    width: 1440px;
+    margin: 0 auto;
 }
 
 a, a:visited, a:active {
